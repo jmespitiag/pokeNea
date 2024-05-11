@@ -73,3 +73,5 @@ const pokeneas = [
 
     
 ]
+
+module.exports = pokeneas;
