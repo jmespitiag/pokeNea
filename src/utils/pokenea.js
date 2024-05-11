@@ -4,7 +4,7 @@ const pokeneas = [
         nombre: 'Makuhita',
         altura: '1,0 m',
         habilidad: 'Agallas',
-        imagen: ' ',
+        imagen: 'https://storage.googleapis.com/poke_nea_bucket/Makuhita.png',
         fraseFilosofica: 'Sí se puede muchachos'
     },
 
@@ -13,7 +13,7 @@ const pokeneas = [
         nombre: 'Wishiwashi',
         altura: '0,2 m',
         habilidad: 'Banco',
-        imagen: ' ',
+        imagen: 'https://storage.googleapis.com/poke_nea_bucket/Wisiwashi.png',
         fraseFilosofica: 'Todo tiene consecuencias'
     },
 
@@ -22,7 +22,7 @@ const pokeneas = [
         nombre: 'Mudbray',
         altura: '1,0 m',
         habilidad: 'Ritmo propio',
-        imagen: ' ',
+        imagen: 'https://storage.googleapis.com/poke_nea_bucket/Mudbray.png',
         fraseFilosofica: 'El aquí presente es como un cubo Rubik'
     },
 
@@ -31,7 +31,7 @@ const pokeneas = [
         nombre: 'Corsola',
         altura: '0,6 m',
         habilidad: 'Cura natural',
-        imagen: ' ',
+        imagen: 'https://storage.googleapis.com/poke_nea_bucket/Corsola.png',
         fraseFilosofica: 'Me cogiste muy trabado y a quemarropa'
     },
 
@@ -40,7 +40,7 @@ const pokeneas = [
         nombre: 'Milotic',
         altura: '6,2 m',
         habilidad: 'Escama especial',
-        imagen: ' ',
+        imagen: 'https://storage.googleapis.com/poke_nea_bucket/Milotic.png',
         fraseFilosofica: 'Buenas noches'
     },
 
@@ -49,7 +49,7 @@ const pokeneas = [
         nombre: 'Zamazenta',
         altura: '2,9 m',
         habilidad: 'Escudo recio',
-        imagen: ' ',
+        imagen: 'https://storage.googleapis.com/poke_nea_bucket/Zamazenta.png',
         fraseFilosofica: 'Cuando hasta el gris se vea azul, ahí es'
     },
 
@@ -58,7 +58,7 @@ const pokeneas = [
         nombre: 'Heliolisk',
         altura: '1,0 m',
         habilidad: 'Velo arena',
-        imagen: ' ',
+        imagen: 'https://storage.googleapis.com/poke_nea_bucket/Heliolisk.png',
         fraseFilosofica: 'Desayuno, dale mi desayuno, you know'
     },
 
@@ -67,7 +67,7 @@ const pokeneas = [
         nombre: 'Malamar',
         altura: '1,5 m',
         habilidad: 'Ventosas',
-        imagen: ' ',
+        imagen: 'https://storage.googleapis.com/poke_nea_bucket/Malamar.png',
         fraseFilosofica: 'Estoy yendo de vuelta al 505'
     },
 
