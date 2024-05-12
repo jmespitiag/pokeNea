@@ -21,4 +21,10 @@ router.get('/pokenea/showView', (req, res) => {
     res.render('showView', {pokenea: pokeneaJSON, hostname: os.hostname()});
 });
 
+router.get('/', (req, res) => {
+
+
+    res.render('home');
+});
+
 module.exports = router;
