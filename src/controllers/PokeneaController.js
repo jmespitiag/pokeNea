@@ -1,16 +1,7 @@
 const pokeneas = require('../utils/pokenea');
+const os = require("os")
 
-
-const showJSON = (req, res) => {
-
-    const indiceAleatorio = Math.floor(Math.random() * pokeneas.length)
-    const pokeneaAleatorio = pokeneas[indiceAleatorio];
-
-    res.json(pokeneaAleatorio);
-    
-};
-
-const showView = () => {
+const show = () => {
 
     const indiceAleatorio = Math.floor(Math.random() * pokeneas.length)
     const pokeneaAleatorio = pokeneas[indiceAleatorio];
@@ -19,4 +10,4 @@ const showView = () => {
     
 };
 
-module.exports = { showView, showJSON };
+module.exports = { show, os };
