@@ -1,0 +1,22 @@
+<!-- showView.ejs -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Show Pokenea</title>
+    <link rel="stylesheet" type="text/css" href="/css/styles.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>Pokenea</h1>
+        <ul>
+            <li><strong>Nombre:</strong> <%= pokenea.nombre %></li>
+            <li><strong>Altura:</strong> <%= pokenea.altura %></li>
+            <li><strong>Habilidad:</strong> <%= pokenea.habilidad %></li>
+            <li><strong>Imagen:</strong> <img src="<%= pokenea.imagen %>" alt="<%= pokenea.nombre %>"></li>
+            <li><strong>Frase Filosófica:</strong> <%= pokenea.fraseFilosofica %></li>
+        </ul>
+    </div>
+</body>
+</html>
